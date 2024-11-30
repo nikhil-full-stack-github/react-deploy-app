@@ -1,0 +1,38 @@
+.index-1{
+
+    background-image: url("./devu.jpg");
+
+}
+
+.index-2{
+
+  color: yellow;
+  font-weight: 100;
+
+}
+
+.index-4{
+    font-weight: 100;
+    color: red;
+}
+
+.index-5{
+     
+    color: yellow;
+    font-weight: 100;
+    
+}
+
+.index-30{
+
+    color: orange;
+    font-weight: 100;
+
+}
+
+.index-3{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
